@@ -18,4 +18,8 @@
 - [김진성](https://github.com/kimjs2513)
 - [박준기](https://github.com/orgs/Steady-Crew-So-Awesome/people/JKPark7764)
 
-## 📂 Repository List
+## 📂 Repository List 
+| Repo Name | What | Member |
+|---|---|---| 
+| [repoofhandsomekimin](https://github.com/Steady-Crew-So-Awesome/repoofhandsomekimin) | 뭔 생각인지 모르겠음 | 김기민 |
+| [K8S](https://github.com/Steady-Crew-So-Awesome/K8S) | 도커와 쿠버네티스를 공부하면서 짠 혹은 본 좋은 예제소스 | 배유나 |
