@@ -14,7 +14,7 @@
 - [김기민](https://github.com/handsomekimin)
 - [임지아](https://github.com/gajigajia)
 - [이성현](https://github.com/maxlee9185)
-- [박다정](https://github.com/dydyung)
+- [박다정](https://github.com/judysummer)
 - [김진성](https://github.com/kimjs2513)
 - [박준기](https://github.com/orgs/Steady-Crew-So-Awesome/people/JKPark7764)
 
